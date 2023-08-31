@@ -16,9 +16,6 @@ Interests: Networking, low-level programming, bypassing things ;)
 
 <p align="center">
   
-<img height= "160" src="https://github-readme-stats.vercel.app/api?username=exact&show_icons=true&include_all_commits=true&theme=dark&update=2" />
-<br />
-<br />
 <img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exact&theme=dark&update=2" />
 
 </p>
