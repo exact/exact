@@ -1,13 +1,13 @@
 <h1 align="center">
-eve ✨<br />
+issy 💄<br />
 <img src="https://komarev.com/ghpvc/?username=exact" />
 </h1>
 
 <pre align="center">
-Codes With: C#, JavaScript, PHP, HTML, CSS, Python, Some C++
-Interests: GO, Networking, low-level programming
-Website: https://e.rip/mysnipes ~ https://e.rip/evadiscord
+Codes With: Python, JavaScript, Go, C#, PHP, HTML, CSS, Some C++
+Interests: Networking, low-level programming, bypassing things ;)
 </pre>
+<a href="https://evie.space/" target="_blank">https://evie.space/</a>
 
 <p align="center">
   
