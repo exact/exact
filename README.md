@@ -1,7 +1,6 @@
 <h1 align="center">
 isabella<br />
 <img src="https://komarev.com/ghpvc/?username=exact" />
-  <img src="https://evie.space/testing"/>
 </h1>
 
 <pre align="center">
