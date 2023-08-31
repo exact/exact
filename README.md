@@ -1,5 +1,5 @@
 <h1 align="center">
-issy 💄<br />
+isabella 💄<br />
 <img src="https://komarev.com/ghpvc/?username=exact" />
 </h1>
 
