@@ -7,7 +7,7 @@ issy 💄<br />
 Codes With: Python, JavaScript, Go, C#, PHP, HTML, CSS, Some C++
 Interests: Networking, low-level programming, bypassing things ;)
 </pre>
-<a style="text-align: center;" href="https://evie.space/" target="_blank">https://evie.space/</a>
+<a align="center" href="https://evie.space/" target="_blank">https://evie.space/</a>
 
 <p align="center">
   
