@@ -12,4 +12,3 @@ Interests: Networking, low-level programming, bypassing things ;)
   <a href="https://evie.space/" target="_blank">https://evie.space/</a>
 </div>
 
-<div><br/></div>
