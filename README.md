@@ -9,6 +9,6 @@ Interests: Networking, low-level programming, bypassing things ;)
 </pre>
 
 <div align="center">
-  <a href="https://evie.space/" target="_blank">https://evie.space/</a>
+  <a href="https://evie.win/" target="_blank">https://evie.win/</a>
 </div>
 
